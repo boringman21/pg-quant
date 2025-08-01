@@ -22,19 +22,19 @@
 ## 🗺️ Lộ Trình Học Tập
 
 ### 🎯 **Giai Đoạn 1: Nền Tảng Cơ Bản** (4-6 tuần)
-- [[00-Kiến-thức-cơ-bản/📝 Kiến Thức Cơ Bản - Index|📝 Kiến Thức Cơ Bản]]
-- [[01-Toán-học-và-thống-kê/📊 Toán Học và Thống Kê - Index|📊 Toán Học và Thống Kê]]
-- [[02-Lập-trình/💻 Lập Trình - Index|💻 Lập Trình]]
+- [[00-Kiến-thức-cơ-bản/📝 Kiến Thức Cơ Bản - Index|📝 Kiến Thức Cơ Bản]] - Thị trường, quant concepts
+- [[01-Toán-học-và-thống-kê/📊 Toán Học và Thống Kê - Index|📊 Toán Học và Thống Kê]] - Math foundations, first principles 
+- [[02-Lập-trình/💻 Lập Trình - Index|💻 Lập Trình]] - Python for quant, financial libraries
 
 ### 🚀 **Giai Đoạn 2: Dữ Liệu và Phân Tích** (6-8 tuần)
-- [[03-Dữ-liệu-thị-trường/📈 Dữ Liệu Thị Trường - Index|📈 Dữ Liệu Thị Trường]]
-- [[04-Phân-tích-kỹ-thuật/📉 Phân Tích Kỹ Thuật - Index|📉 Phân Tích Kỹ Thuật]]
-- [[05-Phân-tích-định-lượng/🔬 Phân Tích Định Lượng - Index|🔬 Phân Tích Định Lượng]]
+- [[03-Dữ-liệu-thị-trường/📈 Dữ Liệu Thị Trường - Index|📈 Dữ Liệu Thị Trường]] - Market data + alternative data
+- [[04-Phân-tích-kỹ-thuật/� Phân Tích Kỹ Thuật - Index|� Phân Tích Kỹ Thuật]] - TA patterns, indicators, systems
+- [[05-Phân-tích-định-lượng/🔬 Phân Tích Định Lượng - Index|🔬 Phân Tích Định Lượng]] - AI/ML, quantum, ESG
 
 ### 🎪 **Giai Đoạn 3: Ứng Dụng Thực Tế** (8-10 tuần)
-- [[06-Chiến-lược-trading/⚡ Chiến Lược Trading - Index|⚡ Chiến Lược Trading]]
-- [[07-Quản-lý-rủi-ro/🛡️ Quản Lý Rủi Ro - Index|🛡️ Quản Lý Rủi Ro]]
-- [[08-Backtest-và-optimization/🧪 Backtest và Optimization - Index|🧪 Backtest và Optimization]]
+- [[06-Chiến-lược-trading/⚡ Chiến Lược Trading - Index|⚡ Chiến Lược Trading]] - Strategy development + DeFi
+- [[07-Quản-lý-rủi-ro/🛡️ Quản Lý Rủi Ro - Index|🛡️ Quản Lý Rủi Ro]] - Risk management + portfolio theory
+- [[08-Backtest-và-optimization/🧪 Backtest và Optimization - Index|🧪 Backtest và Optimization]] - Testing + XAI
 
 ---
 
@@ -45,7 +45,22 @@
 
 ---
 
-## 🎯 Mục Tiêu Học Tập 2025
+# 📊 Quant Learning Hub - Updated 2025
+
+## � **CẬP NHẬT MỚI NHẤT - Xu Hướng Quant 2025**
+
+### 🚀 **BREAKTHROUGH 2025**
+- **[[🚀 Xu Hướng Quant 2025]]** - Top 15 xu hướng đột phá với nghiên cứu mới nhất
+- **[[🤖 2025 Implementation Roadmap]]** - Roadmap 6 tháng implement hoàn chỉnh
+- **[[🔬 2025 Research Insights]]** - Deep analysis từ MIT, Stanford, UC London
+- **[[🤖 AI Agent-Based Trading Systems - Advanced 2025]]** - Multi-agent systems với 355% gains
+
+### ⭐ **HOT Topics 2025**
+1. **AI Agent-Based Trading** - 74.4% accuracy, 3.05 Sharpe ratio
+2. **Quantum Portfolio Optimization** - 10-100x speedup với QAOA algorithms  
+3. **Advanced LLMs in Finance** - GPT-4o + FinBERT ensemble strategies
+4. **Alternative Data Revolution** - 30%+ CAGR market growth
+5. **AI-Powered Risk Management** - 68% of firms adopting real-time monitoring
 
 ### 🔥 **Core Competencies**
 - [ ] **AI/ML Mastery**: LLMs, Deep Learning, Reinforcement Learning
